@@ -14,7 +14,7 @@ To-do:
     eveything
   Units
     unit training/structure building
-    resource collection
+    method to return resource collection from buildings based on their workers
   Refine random map generation
     more customisation, even division of resources, more realism, etc
 
